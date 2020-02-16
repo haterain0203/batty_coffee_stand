@@ -30,3 +30,17 @@ body {
   .text-sub {
     color: #777;
   }
+
+  .text-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  .card-contents {
+    padding: 40px;
+    display: block;
+    margin-bottom: 20px;
+    background-color: #fff;
+  }
